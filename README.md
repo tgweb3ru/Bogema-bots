@@ -252,3 +252,18 @@ Bскусство, ремесло, музыка, бренды, авторски�
 Продажа полезных инструкций в pdf с автоматической выдачей после криптооплаты
 
 ---
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="auction-bot.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Аукционист</h3>
+      <p>$13</p>
+    </td>
+  </tr>
+</table>
+Проведение торгов за картины, кастомную одежду и другие редкости прямо в чате
+
+---
