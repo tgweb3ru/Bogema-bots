@@ -3,7 +3,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="bogema_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="bogema-bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
   </tr>
 </table>
@@ -16,7 +16,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="welcome_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="welcome-bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Проводник</h3>
@@ -31,7 +31,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="bridge_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="bridge-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Связной</h3>
@@ -46,7 +46,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="muse_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="muse-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Вдохновитель</h3>
@@ -61,7 +61,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="guard_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="guard-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Стражник</h3>
@@ -76,7 +76,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="feedback_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="feedback-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Слушатель</h3>
@@ -91,7 +91,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="herald_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="herald-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;"<h3>Вестник</h3>
@@ -106,7 +106,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="nav_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="nav-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Навигатор</h3>
@@ -121,7 +121,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="master_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="master-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Мастер</h3>
@@ -136,7 +136,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="library_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="library-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Кладезь</h3>
@@ -151,7 +151,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="mentor_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="mentor-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Наставник</h3>
@@ -166,7 +166,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="joint_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="joint-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Совместник</h3>
@@ -181,7 +181,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="creator_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="creator-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Архитектор</h3>
@@ -196,7 +196,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="sage_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="sage-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Мудрец</h3>
@@ -211,7 +211,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="donate_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="donate-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Благодаритель</h3>
@@ -226,7 +226,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="shop_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="shop-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Торговец</h3>
@@ -241,7 +241,7 @@ Bскусство, ремесло, музыка, бренды, авторски�
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="consult_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="consult-bot.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Консультант</h3>
